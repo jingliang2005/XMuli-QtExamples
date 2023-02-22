@@ -1,0 +1,15 @@
+﻿cmake_minimum_required(VERSION 3.7)
+project(QtExamples)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_subdirectory(DbSigSlot)
+add_subdirectory(ExChangeSVGColor)
+add_subdirectory(ExCRLF)
+add_subdirectory(ExIntelDete)
+add_subdirectory(ExPicShot)
+add_subdirectory(TestHotKey)
+#add_subdirectory()
+#add_subdirectory()
+#add_subdirectory()
+#add_subdirectory()
